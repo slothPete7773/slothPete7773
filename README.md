@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @slothPete7773
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 slothPete7773/slothPete7773 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[![https://spotify-github-profile.vercel.app/api/view.svg?uid=21ojs7wes6dzhscvfxuxw7xry&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=21ojs7wes6dzhscvfxuxw7xry&cover_image=true&theme=default&show_offline=false)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ojs7wes6dzhscvfxuxw7xry&cover_image=true&theme=default&show_offline=false)](https://spotify-github-profile.vercel.app/api/view?uid=21ojs7wes6dzhscvfxuxw7xry&redirect=true)
