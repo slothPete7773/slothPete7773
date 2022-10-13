@@ -9,4 +9,4 @@ slothPete7773/slothPete7773 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=21ojs7wes6dzhscvfxuxw7xry&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=21ojs7wes6dzhscvfxuxw7xry&cover_image=true&theme=default&show_offline=false)]]
