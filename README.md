@@ -2,7 +2,7 @@
 
 ## :page_with_curl: [Resume](https://slothpete7773.github.io/)
 
-[CV file](https://drive.google.com/file/d/1sags4H908emefE7NCuivarZYvxYH8NR4/view?usp=share_link)
+[Resume file](https://drive.google.com/file/d/1k3lgVYG9NYhZEXfWwLrnDddTJR6H1yxf/view?usp=share_link)
 
 ## :floppy_disk: Previous works
 
