@@ -2,7 +2,7 @@
 
 ## :page_with_curl: [Resume](https://slothpete7773.github.io/)
 
-[Resume file](https://drive.google.com/file/d/1-holYl8MFsO-qO7yl_F4bdRM82JYnB5n/view?usp=drive_link)
+[Resume file](https://drive.google.com/file/d/1DwhkgM5NdP1CEnwGs5uWwdq4AoSyXO7U/view?usp=drive_link)
 
 ## :floppy_disk: Previous works
 
