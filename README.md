@@ -4,7 +4,7 @@
 
 [Resume file](https://drive.google.com/file/d/1DwhkgM5NdP1CEnwGs5uWwdq4AoSyXO7U/view?usp=drive_link)
 
-## :floppy_disk: Previous works
+## :floppy_disk: Previous projects
 
 - **[Svelte]**\
 [FOMO: Interactive Game Website](https://on-train.vercel.app/)\
