@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ---
 
-[![spotify-github-profile](https://https://spotify-github-profile.kittinanx.com/api/view?uid=21ojs7wes6dzhscvfxuxw7xry&cover_image=true&theme=default&show_offline=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=21ojs7wes6dzhscvfxuxw7xry&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21ojs7wes6dzhscvfxuxw7xry&cover_image=true&theme=default&show_offline=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=21ojs7wes6dzhscvfxuxw7xry&redirect=true)
