@@ -2,11 +2,6 @@
 
 ## :floppy_disk: Previous projects
 
-- **[Svelte]**\
-[FOMO: Interactive Game Website](https://on-train.vercel.app/)\
-An interactive game website with topic of a psychological phenomenon observed on social media website called Fear of Missing Out (FOMO).
-
-
 <!-- ## :computer: Personal works -->
 
 ## A little showcase
